@@ -1,0 +1,1 @@
+To make music work with Quakespasm Spiked, simply go into the game's/mod's folder and create a new folder named "music". Place all .ogg files inside

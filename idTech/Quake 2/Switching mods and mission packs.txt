@@ -1,0 +1,8 @@
+First, open the console and type /disconnect
+
+To change to another mod/mission pack, type /game mod_folder_name
+- Example: switching to Mission Pack 2: Ground Zero
+/game mp2_rogue
+
+To switch back to regular Quake 2, type:
+/game baseq2

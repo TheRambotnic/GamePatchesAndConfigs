@@ -1,0 +1,1 @@
+-fitz -sndspeed 44100 -heapsize 1024000

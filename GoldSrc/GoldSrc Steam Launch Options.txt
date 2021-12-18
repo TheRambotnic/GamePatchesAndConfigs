@@ -1,0 +1,1 @@
+-noforcemaccel -noforcemparms -noforcemspd -w 1366 -h 768 -nomsaa -nofbo +gl_vsync 0 +fps_max 101 +fps_override 1 +rate 20000 +cl_cmdrate 106 +cl_updaterate 101
