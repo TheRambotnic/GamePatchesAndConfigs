@@ -35,5 +35,5 @@ One last thing: some files could not be added to the repo due to file size, so I
 	* Half-Life 2 - [QoL Improvements](https://drive.google.com/drive/u/0/folders/1QIhGnVIUntIBv5rkHvFDgDTcuYnwyowK)
 	<br/><br/>
 * **Unreal**
-	* Unreal Gold - [Patch 227i](https://www.oldunreal.com/oldunrealpatches.html)
+	* Unreal Gold - [Patch 227i](https://www.oldunreal.com/downloads/unreal/oldunreal-patches/)
 	* Unreal Tournament - [Direct3D 10 Renderer](http://kentie.net/article/d3d10drv/)
