@@ -9,6 +9,7 @@ There's also certain folders that contains complex names with brackets. Those ar
 One last thing: some files could not be added to the repo due to file size, so I'll be linking them below.
 
 ## Patches and stuff
+Please note that the majority of these patches are meant to be used with Steam.
 * **Build**
 	* Duke Nukem 3D - [EDuke32 Sourceport](https://www.eduke32.com/)
 	* Blood - [NBlood Sourceport](https://github.com/nukeykt/NBlood/)
