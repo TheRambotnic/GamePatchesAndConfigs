@@ -2,9 +2,16 @@
 This personal repository is meant to store all configs and patches for games I really love and am still playing or would like to return to at some point.
 
 ## Folder names
-Each folder represents the name of the engine, and inside each one is a folder with the name of the game made with said engine. Most of the files are configuration and keybinds, but sometimes they can include actual patches. 
+Each root folder represents the name of the engine, and inside each one is a folder with the name of the game made with said engine. Most of the files are configuration and keybinds, but sometimes they can include actual patches.
 
-There's also certain folders that contains complex names with brackets. Those are system folders, which means whatever files are inside of them, you must place them in the correct folder on your computer.
+There's also certain folders that contain complex names with brackets. Whatever files are inside of them, you must place them in the correct path inside of your computer.
+
+**EXAMPLE:**
+* `idTech`
+	* `DOOM (2016)`
+		* `[%USERPROFILE%] [Saved Games] [id Software] [DOOM] [base]`
+
+The above example would correspond to Windows Explorer's path: `%USERPROFILE%/Saved Games/id Software/DOOM/base`
 
 One last thing: some files could not be added to the repo due to file size, so I'll be linking them below.
 
