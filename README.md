@@ -7,11 +7,11 @@ Each root folder represents the name of the engine, and inside each one is a fol
 There's also certain folders that contain complex names with brackets. Whatever files are inside of them, you must place them in the correct path inside of your computer.
 
 **EXAMPLE:**
-* `idTech`
-	* `DOOM (2016)`
-		* `[%USERPROFILE%] [Saved Games] [id Software] [DOOM] [base]`
+* idTech
+	* DOOM (2016)
+		* [%USERPROFILE%] [Saved Games] [id Software] [DOOM] [base]
 
-The above example would correspond to Windows Explorer's path: `%USERPROFILE%/Saved Games/id Software/DOOM/base`
+The above example would correspond to Windows Explorer's path: `%USERPROFILE%/Saved Games/id Software/DOOM/base` for DOOM (2016)'s config files.
 
 One last thing: some files could not be added to the repo due to file size, so I'll be linking them below.
 
