@@ -1,0 +1,1 @@
+-novid -nojoy +mat_motion_blur_percent_of_screen_max 0 +mat_postprocess_enable 0
