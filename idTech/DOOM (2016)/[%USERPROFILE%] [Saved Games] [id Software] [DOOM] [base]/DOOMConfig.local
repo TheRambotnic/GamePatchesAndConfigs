@@ -2,7 +2,7 @@
 configVersion 7
 r_shadowsDistanceFadeMultiplier "0.8"
 r_shadowMaxStaleFrames "0,1,1,2,2"
-r_renderAPI "0"
+r_renderAPI "1"
 r_mode "60"
 r_physicalPagesAspectRatio "1"
 r_vmtrPhysicalPagesAspectRatio "1"
