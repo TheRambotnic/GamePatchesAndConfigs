@@ -1,0 +1,27 @@
+Return to Castle Wolfenstein Single Player v1.42d Unofficial Patch
+By Knightmare (knightmare66@yahoo.com)
+
+This is a simple patch that fixes the startup crash caused by newer video drivers
+(commonly misattributed to Windows 7), adds fully native widescreen support, support
+for and nVidia Surround and ATI Eyefinity via in-menu custom video modes, and a few other
+fixes and tweaks.  It also fixes the crash at the level transition from the dam to
+Paderborn (village2).
+
+It is based on the v1.41 source released by John Carmack in September 2010.
+
+As this release is not made or supported by Gray Matter, id Software, Activision, or
+Bethesda, please don't ask them for support with this.
+
+You should back up the WolfSP.exe, cgamex86.dll, qagamex86.dll, and uix86.dll files
+in your Return to Castle Wolfenstein folder before installing this.
+This can be done simply by making a subfolder called "backup" or "old" and moving
+the above files there.
+
+To install, just extract this archive into your Return to Castle Wolfenstein folder.
+
+Note that this patch includes modified menu files in sp_pak4.pk3.  These files were
+edited to add the new "scralign" attribute to various objects, to change how they
+scale in widescreen video modes.  System.menu and ingame_system.menu were also
+edited to add the new video modes, anisotropic filtering support, and hardware
+gamma support.  Mods or map packs which change the menu files will need to be
+edited to replicate these changes, or they won't work right with this patch.

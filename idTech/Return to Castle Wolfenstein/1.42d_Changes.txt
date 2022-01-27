@@ -1,0 +1,41 @@
+Wolf SP 1.42d Changes:
+- Added 3440x1440 and 5120x2880 video modes.
+- Added 44 and 48 KHz sound support.
+- Added support for triple-wide Eyefinity and nVidia surround modes via custom resolutions.
+	Cvar scr_surroundlayout (0/1) controls centering of HUD/menu items on center monitor.
+	Cvars scr_surroundleft (default 0.33333) and scr_surroundright (default 0.66667) control boundaries of center section.
+- Fixed corrupt TGA screenshots at 1366x768 resolution.
+- Menu items can now be reverse-cycled with the right mouse button.
+- Added width and height fields for custom video modes to video menu.
+- Further increased max size of cvar lists in the UI module to support even more video modes in the future.
+- Added fix for laggy AI in norway map (thanks Zaero).
+
+Wolf SP 1.42c Changes:
+- Added 3200x1800 and 3840x2160 video modes.
+- Increased max size of cvar lists in the UI module to support additional video modes.
+- Fixed tesla gun and flamethrower firing in noclip mode, when leaning, and when underwater.
+- Fixed hint icon appearing for alarm boxes at ranges farther than they can be activated from.
+- Fixed saved games not properly restoring the g_episode cvar, making the mission debrief tabs disappear in the notebook.
+- Fixed loading autosaves partially breaking briefing cutscenes.
+
+Wolf SP 1.42b Changes:
+- Added 2560x1080 ultra-wide video mode.
+- Fixed FOV scaling in cutscenes.
+- The GL_EXTENSIONS string is now printed two extensions per line to avoid possible future buffer overflows.
+- Added custom resolution mode to video menu.
+
+Wolf SP 1.42a Changes:
+- Fixed the crash at the level transition from dam to village2.
+- Fixed dropped enemy weapons sometimes reappearing after being picked up.
+
+Wolf SP 1.42 Changes:
+- Fixed buffer overflow crash induced by newer video drivers.
+- Added native widescreen support with in-menu availability.
+- Add anamorphic scaling to menus and HUD.
+- Opening cinematic is scaled to screen while preserving aspect ratio in widescreen mode.
+- Added support for anisotropic filtering with in-menu availability.  Can be changed without a vid_restart.
+- Added support for mouse buttons 4 and 5.
+- Fixed hardware gamma control in Windows Vista and later.  HW now defaults to on, and overbright bits defaults to off.
+- Changed r_picmip and r_picmip2 defaults to 0 and 1, respectively.
+- Removed security warnings for game DLLs.
+- Added balancing cvars (sk_*) to game DLL.
