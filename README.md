@@ -1,5 +1,5 @@
 # Game Patches, Fixes and Configs
-This personal repository is meant to store all configs and patches for games I really love and am still playing or would like to return to at some point.
+This personal repository is meant to store all configs and patches for games I really love and am still playing or would like to return to at some point. **WINDOWS USERS ONLY!**
 
 ## Folder names
 Each root folder represents the name of the engine, and inside each one is a folder with the name of the game made with said engine. Most of the files are configuration and keybinds, but sometimes they can include actual patches.
@@ -31,12 +31,10 @@ Please note that the majority of these patches are meant to be used with Steam.
 		* [Dimension of the Past](https://www.quaddicted.com/reviews/dopa.html)
 		* [Dwell - Episode One](https://www.quaddicted.com/forum/viewtopic.php?id=781)
 		* [Slayer's Testament](https://www.moddb.com/mods/slayers-testament)
-		* [MP1: Scourge of Armagon](https://drive.google.com/drive/u/0/folders/1REJwcdmbCA2CsaiFaBe4syKKPF9Lx8ji)
-		* [MP2: Dissolution of Eternity](https://drive.google.com/drive/u/0/folders/1REJwcdmbCA2CsaiFaBe4syKKPF9Lx8ji)
+		* [Mission Packs 1 and 2: Scourge of Armagon + Dissolution of Eternity](https://drive.google.com/drive/u/0/folders/1REJwcdmbCA2CsaiFaBe4syKKPF9Lx8ji)
 		<br/><br/>
 	* Quake II - [Yamagi Quake II Sourceport](https://www.yamagi.org/quake2/) (Replace `quake2.exe` with `yquake2.exe`)
-		* [MP1: The Reckoning](https://drive.google.com/drive/u/0/folders/12rMNDkdzS7j3xO1osFP4Nl80-PjFvYzW)
-		* [MP2: Ground Zero](https://drive.google.com/drive/u/0/folders/12rMNDkdzS7j3xO1osFP4Nl80-PjFvYzW)
+		* [Mission Packs 1 and 2: The Reckoning + Ground Zero](https://drive.google.com/drive/u/0/folders/12rMNDkdzS7j3xO1osFP4Nl80-PjFvYzW)
 		<br/><br/>
 	* Quake II - [KMQuake II Sourceport and Patches](http://www.markshan.com/knightmare/)
 	<br/><br/>
