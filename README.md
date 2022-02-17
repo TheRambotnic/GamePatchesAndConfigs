@@ -1,11 +1,11 @@
 # Game Patches, Fixes and Configs
 This personal repository is meant to store all configs and patches for games I really love and am still playing or would like to return to at some point. **WINDOWS USERS ONLY!**
 
-| Table of Contents |
----------------------
-| [1. Folder names](#folder-names) |
-| [2. Patches and stuff](#patches-and-stuff) |
-| [3. Bots](#bots) |
+| Table of Contents 							|
+------------------------------------------------|
+| [1. Folder names](#folder-names) 				|
+| [2. Patches and stuff](#patches-and-stuff) 	|
+| [3. Bots](#bots) 								|
 
 ## Folder names
 Each root folder represents the name of the engine, and inside each one is a folder with the name of the game made with said engine. Most of the files are configuration and keybinds, but sometimes they can include actual patches.
