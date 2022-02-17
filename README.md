@@ -1,6 +1,12 @@
 # Game Patches, Fixes and Configs
 This personal repository is meant to store all configs and patches for games I really love and am still playing or would like to return to at some point. **WINDOWS USERS ONLY!**
 
+| Table of Contents |
+---------------------
+| [1. Folder names](#folder-names) |
+| [2. Patches and stuff](#patches-and-stuff) |
+| [3. Bots](#bots) |
+
 ## Folder names
 Each root folder represents the name of the engine, and inside each one is a folder with the name of the game made with said engine. Most of the files are configuration and keybinds, but sometimes they can include actual patches.
 
@@ -44,3 +50,13 @@ Please note that the majority of these patches are meant to be used with Steam.
 * **Unreal**
 	* Unreal Gold - [Patch 227i](https://www.oldunreal.com/downloads/unreal/oldunreal-patches/)
 	* Unreal Tournament - [Direct3D 10 Renderer](http://kentie.net/article/d3d10drv/)
+
+## Bots
+There are 3 bots for **GoldSrc**:
+* CSBot 1.50 (for Counter-Strike 1.6)
+* FoxBot 0.79 (for Team Fortress Classic)
+* Parabot 0.91 (for Half-Life and Deathmatch Classic)
+
+To install them, simply extract their contents into Half-Life's folder in your Steam directory.
+
+**DISCLAIMER:** Please note that you CANNOT play Half-Life's singleplayer campaign when using Parabot. It is recommended that you make a copy of your `liblist.gam` file inside `<Your Steam Directory>/Half-Life/valve/`. To play the singleplayer campaign, simply replace the current `liblist.gam` file with the one you just copied.
