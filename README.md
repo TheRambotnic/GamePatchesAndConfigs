@@ -27,6 +27,7 @@ Please note that the majority of these patches are meant to be used with Steam.
 	* Duke Nukem 3D - [EDuke32 Sourceport](https://www.eduke32.com/)
 	* Blood - [NBlood Sourceport](https://github.com/nukeykt/NBlood/)
 		* [Death Wish](https://www.moddb.com/mods/death-wish-for-blood)
+	* Shadow Warrior - [Raze3D Sourceport](https://github.com/coelckers/Raze) (Replace `sw.exe` with `raze.exe`)
 	<br/><br/>
 * **Havok 2.0**
 	* Painkiller: Black Edition - [Ultimate Community Patch RC3](https://drive.google.com/drive/u/0/folders/1cGoS4fiQLHw3v-EVVFcIoEDOb27SQgu6)
