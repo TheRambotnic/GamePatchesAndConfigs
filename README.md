@@ -1,5 +1,5 @@
 # Game Patches, Fixes and Configs
-This personal repository is meant to store all configs and patches for games I really love and am still playing or would like to return to at some point. **WINDOWS USERS ONLY!**
+This personal repository is meant to store all configs and patches for games I really love and am still playing or would like to return to at some point. Should also mention that these settings were tested on a Nvidia GT 1030 GPU because I'm broke. **WINDOWS USERS ONLY!**
 
 | Table of Contents 							|
 ------------------------------------------------|
@@ -30,6 +30,7 @@ Please note that the majority of these patches are meant to be used with Steam.
 	<br/><br/>
 * **Havok 2.0**
 	* Painkiller: Black Edition - [Ultimate Community Patch RC3](https://drive.google.com/drive/u/0/folders/1cGoS4fiQLHw3v-EVVFcIoEDOb27SQgu6)
+		* If the above doesn't work, try this [link](https://steamcommunity.com/sharedfiles/filedetails/?id=1789104850)
 	<br/><br/>
 * **idTech**
 	* Quake - [Quakespasm Spiked Sourceport](https://triptohell.info/moodles/qss/) (Replace `glquake.exe` with `quakespasm-spiked-win64.exe`)
