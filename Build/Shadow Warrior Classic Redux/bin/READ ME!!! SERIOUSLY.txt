@@ -1,0 +1,6 @@
+The config file for Raze3D uses the same naming convention as GZDoom, which means the INI file is named like this:
+- raze-[Computer_Name].ini
+
+Where:
+[Computer_Name] is your username. So, for example, if you're running Windows 10 and your username is DESKTOP-123ABC, then the config file should be named:
+- raze-DESKTOP-123ABC.ini
