@@ -40,6 +40,7 @@ Please note that the majority of these patches are meant to be used with Steam.
 		* [Dwell - Episode One](https://www.quaddicted.com/forum/viewtopic.php?id=781)
 		* [Slayer's Testament](https://www.moddb.com/mods/slayers-testament)
 		* [Mission Packs 1 and 2: Scourge of Armagon + Dissolution of Eternity](https://drive.google.com/drive/u/0/folders/1REJwcdmbCA2CsaiFaBe4syKKPF9Lx8ji)
+		* [Copper](http://lunaran.com/copper/)
 		<br/><br/>
 	* Quake II - [Yamagi Quake II Sourceport](https://www.yamagi.org/quake2/) (Replace `quake2.exe` with `yquake2.exe`)
 		* [Mission Packs 1 and 2: The Reckoning + Ground Zero](https://drive.google.com/drive/u/0/folders/12rMNDkdzS7j3xO1osFP4Nl80-PjFvYzW)
