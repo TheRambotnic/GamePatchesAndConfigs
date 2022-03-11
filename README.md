@@ -35,7 +35,8 @@ Please note that the majority of these patches are meant to be used with Steam.
 	<br/><br/>
 * **idTech**
 	* Quake - [Quakespasm Spiked Sourceport](https://triptohell.info/moodles/qss/) (Replace `glquake.exe` with `quakespasm-spiked-win64.exe`)
-		* [Alkaline](https://www.quaddicted.com/reviews/alkaline1.1.html)
+		* [Alkaline](https://www.quaddicted.com/reviews/alkaline.html)
+			* [1.1 Patch](https://www.quaddicted.com/reviews/alkaline1.1.html)
 		* [Dimension of the Past](https://www.quaddicted.com/reviews/dopa.html)
 		* [Dwell - Episode One](https://www.quaddicted.com/forum/viewtopic.php?id=781)
 		* [Slayer's Testament](https://www.moddb.com/mods/slayers-testament)
