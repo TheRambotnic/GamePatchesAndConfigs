@@ -66,6 +66,7 @@ Please note that the majority of these patches are meant to be used with Steam.
 
 	* Unreal Tournament
 		* [Direct3D 10 Renderer](http://kentie.net/article/d3d10drv/)
+		* [Patch 469](https://www.oldunreal.com/downloads/unrealtournament/oldunreal-patches-for-unrealtournament-version-469/)
 	<br/><br/>
 
 ## Mods
