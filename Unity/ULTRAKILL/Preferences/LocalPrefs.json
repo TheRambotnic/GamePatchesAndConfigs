@@ -2,7 +2,7 @@
   "colorPalette": false,
   "simpleNailPhysics": true,
   "bloodStainChance": 0.5,
-  "mouseSensitivity": 7.0,
+  "mouseSensitivity": 6.0,
   "frameRateLimit": 4,
   "vSync": false
 }

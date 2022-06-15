@@ -12,12 +12,12 @@
   "keyBinding.Slot3": 99,
   "keyBinding.Slot4": 114,
   "subtitlesEnabled": true,
-  "allVolume": 0.7,
+  "allVolume": 0.6,
   "difficulty": 3,
   "weapon.rev0": 2,
   "weapon.sho.order": "2134",
   "weapon.rai2": 1,
-  "weapon.nai0": 1,
+  "weapon.nai0": 2,
   "hudColor.hp.g": 0.0,
   "hudColor.hp.b": 0.0,
   "hudColor.hp.r": 1.0,
@@ -29,5 +29,11 @@
   "keyBinding.ChangeFist": 308,
   "hudType": 1,
   "hudBackgroundOpacity": 60.0,
-  "iconPack": 0
+  "iconPack": 0,
+  "weapon.nai1": 1,
+  "weapon.nai.order": "2134",
+  "selectedSaveSlot": 0,
+  "musicVolume": 0.4,
+  "hideShotgunPopup": true,
+  "weapon.sho0": 1
 }
