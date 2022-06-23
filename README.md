@@ -24,13 +24,14 @@ The above example would correspond to Windows Explorer's path: `%USERPROFILE%/Sa
 
 ## Patches
 Please note that the majority of these patches are meant to be used with Steam.
+
 * **Build**
 	* Duke Nukem 3D
 		* [EDuke32 Sourceport](https://www.eduke32.com/)
 	<br/><br/>
 
 	* Blood
-		* [NBlood Sourceport](https://github.com/nukeykt/NBlood/)
+		* [NBlood Sourceport](https://github.com/nukeykt/NBlood/) (Replace `anuket_x64.exe` with `nblood.exe`)
 	<br/><br/>
 
 	* Shadow Warrior
