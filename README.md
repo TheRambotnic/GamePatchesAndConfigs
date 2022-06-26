@@ -1,12 +1,13 @@
 # Game Patches, Fixes and Configs
 This personal repository is meant to store all configs and patches for games I really love and am still playing or would like to return to at some point. Should also mention that these settings were tested on a Nvidia GT 1030 GPU because I'm broke. **WINDOWS USERS ONLY!**
 
-| Table of Contents 							|
-|-----------------------------------------------|
-| [1. Folder names](#folder-names) 				|
-| [2. Patches](#patches) 						|
-| [3. Mods](#mods) 								|
-| [4. Bots](#bots) 								|
+| Table of Contents 										|
+|-----------------------------------------------------------|
+| [1. Folder names](#folder-names) 							|
+| [2. Patches](#patches) 									|
+| [3. Mods](#mods) 											|
+| [4. Bots](#bots) 											|
+| [5. Steam launch parameters](#steam-launch-parameters)	|
 
 ## Folder names
 Each root folder represents the name of the engine, and inside each one is a folder with the name of the game made with said engine. Most of the files are configuration and keybinds, but sometimes they can include actual patches.
@@ -110,3 +111,14 @@ There are 3 bots for **GoldSrc**:
 To install them, simply extract their contents into Half-Life's folder in your Steam directory.
 
 **DISCLAIMER:** Please note that you CANNOT play Half-Life's singleplayer campaign when using Parabot. It is recommended that you make a backup copy of your `liblist.gam` file inside `<Your Steam Directory>/Half-Life/valve/`. To play the singleplayer campaign, simply replace Parabot's `liblist.gam` file with the one you backed up.
+
+## Steam launch parameters
+To use these: right click the game > Properties > Launch Options
+
+- AMID EVIL: `-nosplash -USEALLAVAILABLECORES -heapsize 2097152`
+- BioShock: `-nointro`
+- DOOM: `+set com_skipIntroVideo 1 +set r_skipFog 1 +vt_maxAniso 1 +r_shadowAtlasWidth 32 -USEALLAVAILABLECORES -heapsize 2097152 -sm4`
+- Half-Life (and general GoldSrc Engine games): `-noforcemaccel -noforcemparms -noforcemspd -w 1366 -h 768 -nomsaa -nofbo +gl_vsync 0 +fps_max 72 +fps_override 1 +rate 20000 +cl_cmdrate 106 +cl_updaterate 101`
+- Half-Life 2 (and general Source Engine games): `-novid -nojoy -w 1366 -h 768 -high +mat_motion_blur_percent_of_screen_max 0 +mat_postprocess_enable 0`
+- Quake (using QuakeSpasm Spiked): `-fitz -sndspeed 44100 -heapsize 1024000 +g_showintromovie 0`
+- Wolfenstein The New Order: `+set com_skipIntroVideo 1 +set com_allowConsole 1 +cvaradd r_skipPostProcess 1 +cvaradd r_skipFog 1 +cvaradd r_skipFlares 1 +cvaradd r_skipSunFlares 1 +cvaradd r_skipGodRays 1`
