@@ -63,12 +63,12 @@ Please note that the majority of these patches are meant to be used with Steam.
 
 * **Unreal**
 	* Unreal Gold
-		* [Patch 227i](https://www.oldunreal.com/downloads/unreal/oldunreal-patches/)
+		* [OldUnreal's Patch 227i](https://www.oldunreal.com/downloads/unreal/oldunreal-patches/)
 	<br/><br/>
 
 	* Unreal Tournament
 		* [Direct3D 10 Renderer](http://kentie.net/article/d3d10drv/)
-		* [Patch 469](https://www.oldunreal.com/downloads/unrealtournament/oldunreal-patches-for-unrealtournament-version-469/)
+		* [OldUnreal's Patch 469b](https://github.com/OldUnreal/UnrealTournamentPatches/releases/tag/v469b)
 		* [foxWSFix99](https://github.com/alexstrout/foxWSFix-UT99)
 	<br/><br/>
 
