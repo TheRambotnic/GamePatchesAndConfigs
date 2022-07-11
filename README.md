@@ -56,6 +56,10 @@ Please note that the majority of these patches are meant to be used with Steam.
 		* [Mission Packs 1 and 2: The Reckoning + Ground Zero](https://drive.google.com/drive/u/0/folders/12rMNDkdzS7j3xO1osFP4Nl80-PjFvYzW)
 		<br/><br/>
 
+	* Return to Castle Wolfenstein
+		* [Patch 1.42d](http://kmq2.toastednet.org/downloads/rtcw-sp-1.42d-win32-bin.zip)
+		<br/><br/>
+
 * **Source**
 	* Half-Life 2
 		* [QoL Improvements](https://drive.google.com/drive/u/0/folders/1QIhGnVIUntIBv5rkHvFDgDTcuYnwyowK)
