@@ -106,7 +106,7 @@ These are some mods that I really enjoy and figured I might link them here
 	* [Half-Life: Field Intensity](https://www.moddb.com/mods/field-intensity)
 	* [They Hunger](https://www.moddb.com/mods/they-hunger)
 	* [Residual Point + Residual Life](https://www.runthinkshootlive.com/posts/residual-life/)
-	* [Gunman Chronicals](https://www.moddb.com/games/gunman-chronicles)
+	* [Gunman Chronicles](https://www.moddb.com/games/gunman-chronicles)
 	* [Sweet Half-Life](https://www.moddb.com/mods/sweet-half-life)
 	* [Poke646](https://www.moddb.com/mods/poke646-anniversary-edition)
 	* [Signal Lost](https://www.moddb.com/mods/signal-lost)
