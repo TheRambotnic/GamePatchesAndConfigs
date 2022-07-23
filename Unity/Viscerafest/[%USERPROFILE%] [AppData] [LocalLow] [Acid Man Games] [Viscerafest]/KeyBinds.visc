@@ -17,27 +17,27 @@
     ],
     "shootKey": [
         323,
-        494
+        0
     ],
     "meleeKey": [
-        102,
-        324
+        324,
+        102
     ],
     "jumpKey": [
         32,
-        330
+        0
     ],
     "dashKey": [
         304,
-        334
+        0
     ],
     "walkKey": [
         308,
-        338
+        0
     ],
     "interactKey": [
         101,
-        332
+        0
     ],
     "inventoryBinds": [
         49,
@@ -57,25 +57,25 @@
         113,
         118,
         120,
-        0,
-        0,
-        0
+        116,
+        122,
+        114
     ],
     "ladderAscendKey": [
         32,
-        330
+        0
     ],
     "ladderDescendKey": [
         306,
-        331
+        0
     ],
     "pauseKey": [
         27,
-        337
+        0
     ],
     "quickSave": [
         287,
-        336
+        0
     ],
     "quickLoad": [
         290,
@@ -83,30 +83,30 @@
     ],
     "objectiveToggleKey": [
         9,
-        502
+        0
     ],
     "showStatsKey": [
-        122,
-        503
+        282,
+        0
     ],
     "nextWeapon": [
         329,
-        500
+        0
     ],
     "prevWeapon": [
         328,
-        501
+        0
     ],
     "targetEnemy": [
         326,
-        506
+        0
     ],
     "weaponWheel": [
         325,
         0
     ],
     "lastWeapon": [
-        113,
+        0,
         0
     ],
     "controllerVerAxisName": "",
