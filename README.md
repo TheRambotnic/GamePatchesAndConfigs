@@ -60,6 +60,11 @@ Please note that the majority of these patches are meant to be used with Steam.
 		* [Patch 1.42d](http://kmq2.toastednet.org/downloads/rtcw-sp-1.42d-win32-bin.zip)
 		<br/><br/>
 
+* **GoldSrc**
+	* Half-Life
+		* [Xash3D FWGS Sourceport](https://github.com/FWGS/xash3d-fwgs/)
+		<br/><br/>
+
 * **Source**
 	* Half-Life 2
 		* [QoL Improvements](https://drive.google.com/drive/u/0/folders/1QIhGnVIUntIBv5rkHvFDgDTcuYnwyowK)
@@ -123,7 +128,8 @@ To use these: right click the game > Properties > Launch Options
 - AMID EVIL: `-nosplash -USEALLAVAILABLECORES -heapsize 2097152`
 - BioShock: `-nointro`
 - DOOM: `+set com_skipIntroVideo 1 +set r_skipFog 1 +vt_maxAniso 1 +r_shadowAtlasWidth 32 -USEALLAVAILABLECORES -heapsize 2097152 -sm4`
-- Half-Life (and general GoldSrc Engine games): `-noforcemaccel -noforcemparms -noforcemspd -w 1366 -h 768 -nomsaa -nofbo +gl_vsync 0 +fps_max 72 +fps_override 1 +rate 20000 +cl_cmdrate 106 +cl_updaterate 101`
-- Half-Life 2 (and general Source Engine games): `-novid -nojoy -w 1366 -h 768 -high +mat_motion_blur_percent_of_screen_max 0 +mat_postprocess_enable 0`
+- Half-Life (and general GoldSrc Engine games): `-noforcemaccel -noforcemparms -noforcemspd -w [MONITOR WIDTH] -h [MONITOR HEIGHT] -nomsaa -nofbo +gl_vsync 0 +fps_max 72 +fps_override 1 +rate 20000 +cl_cmdrate 106 +cl_updaterate 101`
+	- If using Xash3D, replace `-w` and `-h` with `-width` and `-height` respectively, and add `-console` to enable the console
+- Half-Life 2 (and general Source Engine games): `-novid -nojoy -w [MONITOR WIDTH] -h [MONITOR HEIGHT] -high +mat_motion_blur_percent_of_screen_max 0 +mat_postprocess_enable 0`
 - Quake (using QuakeSpasm Spiked): `-fitz -sndspeed 44100 -heapsize 1024000 +g_showintromovie 0`
 - Wolfenstein The New Order: `+set com_skipIntroVideo 1 +set com_allowConsole 1 +cvaradd r_skipPostProcess 1 +cvaradd r_skipFog 1 +cvaradd r_skipFlares 1 +cvaradd r_skipSunFlares 1 +cvaradd r_skipGodRays 1`
