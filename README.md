@@ -1,5 +1,5 @@
 # Game Patches, Fixes and Configs
-This personal repository is meant to store all configs and patches for games I really love and am still playing or would like to return to at some point. Should also mention that these settings were tested on a Nvidia GT 1030 GPU because I'm broke. **WINDOWS USERS ONLY!**
+This personal repository is meant to store all configs and patches for games I really love and am still playing or would like to return to at some point. Should also mention that these settings were tested on PC containing a Nvidia GT 1030 GPU and Intel i5-9400F CPU because I'm broke. **WINDOWS USERS ONLY!**
 
 | Table of Contents 										|
 |-----------------------------------------------------------|
@@ -115,8 +115,8 @@ These are some mods that I really enjoy and figured I might link them here
 ## Bots
 There are 3 bots for **GoldSrc**:
 * CSBot 1.50 (for Counter-Strike 1.6)
-* FoxBot 0.79 (for Team Fortress Classic)
-* Parabot 0.91 (for Half-Life and Deathmatch Classic)
+* [FoxBot](https://github.com/APGRoboCop/foxbot) (for Team Fortress Classic)
+* [Parabot](https://github.com/nekonomicon/Parabot/) (for Half-Life and Deathmatch Classic)
 
 To install them, simply extract their contents into Half-Life's folder in your Steam directory.
 
