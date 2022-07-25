@@ -113,10 +113,11 @@ These are some mods that I really enjoy and figured I might link them here
 	<br/><br/>
 
 ## Bots
-There are 3 bots for **GoldSrc**:
+There are 4 bots for **GoldSrc**:
 * CSBot 1.50 (for Counter-Strike 1.6)
 * [FoxBot](https://github.com/APGRoboCop/foxbot) (for Team Fortress Classic)
 * [Parabot](https://github.com/nekonomicon/Parabot/) (for Half-Life and Deathmatch Classic)
+* [Sturmbot](https://sturmbot.org) (for Day of Defeat)
 
 **Dependencies**
 * [Metamod](http://metamod.org)
