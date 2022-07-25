@@ -118,6 +118,9 @@ There are 3 bots for **GoldSrc**:
 * [FoxBot](https://github.com/APGRoboCop/foxbot) (for Team Fortress Classic)
 * [Parabot](https://github.com/nekonomicon/Parabot/) (for Half-Life and Deathmatch Classic)
 
+**Dependencies**
+* [Metamod](http://metamod.org)
+
 To install them, simply extract their contents into Half-Life's folder in your Steam directory.
 
 **DISCLAIMER:** Please note that you CANNOT play Half-Life's singleplayer campaign when using Parabot. It is recommended that you make a backup copy of your `liblist.gam` file inside `<Your Steam Directory>/Half-Life/valve/`. To play the singleplayer campaign, simply replace Parabot's `liblist.gam` file with the one you backed up.
