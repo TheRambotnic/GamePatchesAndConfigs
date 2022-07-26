@@ -112,12 +112,16 @@ These are some mods that I really enjoy and figured I might link them here
 	* [Signal Lost](https://www.moddb.com/mods/signal-lost)
 	<br/><br/>
 
+* **Return to Castle Wolfenstein**
+	* [RealRTCW](https://store.steampowered.com/app/1379630/RealRTCW/)
+
 ## Bots
-There are 4 bots for **GoldSrc**:
+There are 5 bots for **GoldSrc** engine games:
 * CSBot 1.50 (for Counter-Strike 1.6)
 * [FoxBot](https://github.com/APGRoboCop/foxbot) (for Team Fortress Classic)
 * [Parabot](https://github.com/nekonomicon/Parabot/) (for Half-Life and Deathmatch Classic)
 * [Sturmbot](https://sturmbot.org) (for Day of Defeat)
+* [Ricobot](https://gamebanana.com/mods/373334) (for Ricochet)
 
 **Dependencies**
 * [Metamod](http://metamod.org)
